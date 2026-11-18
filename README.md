@@ -1,5 +1,7 @@
 # brain-graph
 
+> **Conceito:** *visualizador de grafo de conhecimento* (*knowledge graph viewer*). Cada página é um nó e cada `[[link]]` entre páginas é uma aresta, como a "Graph View" do Obsidian.
+
 Skill do Claude Code que gera um **grafo interativo** (um único arquivo HTML, offline) a partir de um Project Brain — a base de conhecimento em Markdown com `[[wikilinks]]` mantida pelo CLI `brain`.
 
 - Nós por categoria (decisão, conceito, pessoa, organização…), ligados pelos `[[links]]` das páginas
