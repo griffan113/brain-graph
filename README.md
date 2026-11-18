@@ -1,6 +1,6 @@
 # brain-graph
 
-Skill do Claude Code que gera um **grafo interativo** (um único arquivo HTML, offline) a partir de um [Project Brain](https://github.com/search?q=project+brain+standard) — a base de conhecimento em Markdown com `[[wikilinks]]` mantida pelo CLI `brain`.
+Skill do Claude Code que gera um **grafo interativo** (um único arquivo HTML, offline) a partir de um Project Brain — a base de conhecimento em Markdown com `[[wikilinks]]` mantida pelo CLI `brain`.
 
 - Nós por categoria (decisão, conceito, pessoa, organização…), ligados pelos `[[links]]` das páginas
 - Painel lateral com o conteúdo renderizado, incluindo tabelas e **diagramas Mermaid**
